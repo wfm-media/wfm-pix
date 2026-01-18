@@ -1,1 +1,0 @@
-The Git repository is to store WFM pictures
